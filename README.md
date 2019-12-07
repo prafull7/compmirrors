@@ -2,6 +2,7 @@
 
 <img src='imgs/light_transport.gif' align="center">
 Paper Link: https://arxiv.org/abs/1912.02314
+
 Paper Webpage: http://compmirrors.csail.mit.edu
 
 We present the implementation for both matrix factorization (Figure 4) and blind light transport factorization (Figure 6) methods presented in the paper.
